@@ -1,23 +1,25 @@
 {
-  "name": "bot-khong-ngu",
+  "name": "discord-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svenriksen/bot-khong-ngu.git"
+    "url": "git+https://github.com/Sjnkarang/discord-bot.git"
   },
-  "author": "tinh bao co mic",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/svenriksen/bot-khong-ngu/issues"
+    "url": "https://github.com/Sjnkarang/discord-bot/issues"
   },
-  "homepage": "https://github.com/svenriksen/bot-khong-ngu#readme",
-  "dependencies": {
-    "discord.js": "^13.2.0",
-    "dotenv": "^10.0.0"
-  }
+  "homepage": "https://github.com/Sjnkarang/discord-bot#readme"
 }
