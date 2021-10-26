@@ -1,0 +1,23 @@
+{
+  "name": "bot-khong-ngu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svenriksen/bot-khong-ngu.git"
+  },
+  "author": "tinh bao co mic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svenriksen/bot-khong-ngu/issues"
+  },
+  "homepage": "https://github.com/svenriksen/bot-khong-ngu#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
